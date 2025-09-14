@@ -6,8 +6,6 @@
   <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades.
 </div>
 
-<br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.  <br> Apasionado por la programación y en constante aprendizaje.  <br> Me interesa especialmente el desarrollo front-end.  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades. 
-
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
