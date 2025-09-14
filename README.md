@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  <h1><b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎 𝒥𝑜𝓈𝑒𝓅𝒽/b></h1>
+  <h1><b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎 𝒥𝑜𝓈𝑒𝓅𝒽 </b></h1>
 </div>
 
 <div align="center">
