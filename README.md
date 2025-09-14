@@ -1,10 +1,6 @@
-<p align="center">
-  <h1><b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎  𝒥𝑜𝓈𝑒𝓅𝒽 𝒫𝓇𝒾𝑒𝓉𝑜 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.
-  <br> Apasionado por la programación y en constante aprendizaje.
-  <br> Me interesa especialmente el desarrollo front-end.
-  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades.
-</p>
+# <h1><b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎  𝒥𝑜𝓈𝑒𝓅𝒽 𝒫𝓇𝒾𝑒𝓉𝑜 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.  <br> Apasionado por la programación y en constante aprendizaje.  <br> Me interesa especialmente el desarrollo front-end.  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades. 
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
