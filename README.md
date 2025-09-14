@@ -1,6 +1,10 @@
-<p align="center">
+<div align="center">
   <h1><b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎  𝒥𝑜𝓈𝑒𝓅𝒽 𝒫𝓇𝒾𝑒𝓉𝑜 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</p>
+  <br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.
+  <br> Apasionado por la programación y en constante aprendizaje.
+  <br> Me interesa especialmente el desarrollo front-end.
+  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades.
+</div>
 
 <br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.  <br> Apasionado por la programación y en constante aprendizaje.  <br> Me interesa especialmente el desarrollo front-end.  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades. 
 
