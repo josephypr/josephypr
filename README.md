@@ -2,7 +2,7 @@
 <br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.  <br> Apasionado por la programación y en constante aprendizaje.  <br> Me interesa especialmente el desarrollo front-end.  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades.
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)">
 </a>
 
 # 💻 Lenjuages y Frameworks:
