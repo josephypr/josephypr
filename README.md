@@ -1,4 +1,4 @@
-# Hola, soy  Joseph Prieto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+# Hola, soy  Joseph Prieto  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.  <br> Apasionado por la programación y en constante aprendizaje.  <br> Me interesa especialmente el desarrollo front-end.  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades. 
 
 
