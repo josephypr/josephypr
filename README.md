@@ -1,10 +1,10 @@
 <div align="center">
 	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-  <h1> <b>𝐻𝑜𝓁𝒶, 𝓈𝑜𝓎  𝒥𝑜𝓈𝑒𝓅𝒽 𝒫𝓇𝒾𝑒𝓉𝑜 </b>  </h1>
-  <br> Estudiante de desarrollo de software en proceso de formación, actualmente realizando mis prácticas.
-  <br> Apasionado por la programación y en constante aprendizaje.
-  <br> Me interesa especialmente el desarrollo front-end.
-  <br> Siempre abierto a explorar nuevas tecnologías y mejorar mis habilidades.
+  <br>
+  𝓔𝓼𝓽𝓾𝓭𝓲𝓪𝓷𝓽𝓮 𝓭𝓮 𝓭𝓮𝓼𝓪𝓻𝓻𝓸𝓵𝓵𝓸 𝓭𝓮 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓮𝓷 𝓹𝓻𝓸𝓬𝓮𝓼𝓸 𝓭𝓮 𝓯𝓸𝓻𝓶𝓪𝓬𝓲ó𝓷, 𝓪𝓬𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓻𝓮𝓪𝓵𝓲𝔃𝓪𝓷𝓭𝓸 𝓶𝓲𝓼 𝓹𝓻á𝓬𝓽𝓲𝓬𝓪𝓼.
+  <br> 𝓐𝓹𝓪𝓼𝓲𝓸𝓷𝓪𝓭𝓸 𝓹𝓸𝓻 𝓵𝓪 𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲ó𝓷 𝔂 𝓮𝓷 𝓬𝓸𝓷𝓼𝓽𝓪𝓷𝓽𝓮 𝓪𝓹𝓻𝓮𝓷𝓭𝓲𝔃𝓪𝓳𝓮.
+  <br> 𝓜𝓮 𝓲𝓷𝓽𝓮𝓻𝓮𝓼𝓪 𝓮𝓼𝓹𝓮𝓬𝓲𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓵 𝓭𝓮𝓼𝓪𝓻𝓻𝓸𝓵𝓵𝓸 𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
+  <br> 𝓢𝓲𝓮𝓶𝓹𝓻𝓮 𝓪𝓫𝓲𝓮𝓻𝓽𝓸 𝓪 𝓮𝔁𝓹𝓵𝓸𝓻𝓪𝓻 𝓷𝓾𝓮𝓿𝓪𝓼 𝓽𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝔂 𝓶𝓮𝓳𝓸𝓻𝓪𝓻 𝓶𝓲𝓼 𝓱𝓪𝓫𝓲𝓵𝓲𝓭𝓪𝓭𝓮𝓼.
 </div>
 
 <p align = "center">
