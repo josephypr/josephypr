@@ -11,7 +11,7 @@
     <br>
     <br>
     💻 𝙰𝚙𝚊𝚜𝚒𝚘𝚗𝚊𝚍𝚘 𝚙𝚘𝚛 𝚕𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚌𝚒ó𝚗 𝚢 𝚎𝚗 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚒𝚣𝚊𝚓𝚎.
-    <br> ✨ 𝙼𝚎 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚊 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚕 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 Full Stack.
+    <br> ✨ 𝙼𝚎 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚊 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚎𝚕 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 Front-End .
     <br> 🚀 𝚂𝚒𝚎𝚖𝚙𝚛𝚎 𝚊𝚋𝚒𝚎𝚛𝚝𝚘 𝚊 𝚎𝚡𝚙𝚕𝚘𝚛𝚊𝚛 𝚗𝚞𝚎𝚟𝚊𝚜 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐í𝚊𝚜 𝚢 𝚖𝚎𝚓𝚘𝚛𝚊𝚛 𝚖𝚒𝚜 𝚑𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜.
   </p>
 </div>
@@ -34,14 +34,11 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </p>
 </div>
 
